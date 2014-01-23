@@ -1,0 +1,26 @@
+# Starcraft GlieseE Language File = UNITED STATES ENGLISH
+
+# GENERAL ITEMS
+
+# ITEMS
+
+# TOOLS
+
+# ARMOR
+
+# BLOCKS
+tile.GlieseEGrass.name=Gliese-E Grass
+tile.GlieseEDirt.name=Gliese-E Dirt
+tile.GlieseEStone.name=Gliese-E Stone
+tile.GlieseEBrick.name=Gliese-E Brick
+
+# ENTITYS
+
+# GUI
+gui.choosePlanet.desc.GlieseE=Warm#Oxygen & Water#*Gravity: 150%
+
+itemGroup.starcraftGlieseETab=Spacecraft Gliese-E
+
+dimension.GlieseE.name=GlieseE
+
+# Schematics

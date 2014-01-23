@@ -2,7 +2,6 @@ package mattparks.mods.gliese.galaxy;
 
 import micdoodle8.mods.galacticraft.api.vector.Vector3;
 import micdoodle8.mods.galacticraft.api.world.IGalaxy;
-import net.minecraft.util.StatCollector;
 
 public class GCGlieseGalaxy implements IGalaxy
 {

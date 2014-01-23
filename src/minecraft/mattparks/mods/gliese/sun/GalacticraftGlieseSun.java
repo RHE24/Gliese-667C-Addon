@@ -2,7 +2,6 @@ package mattparks.mods.gliese.sun;
 
 import mattparks.mods.gliese.galaxy.GalaxyCommonProxy;
 import micdoodle8.mods.galacticraft.api.GalacticraftRegistry;
-import micdoodle8.mods.galacticraft.core.GalacticraftCore;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
 import cpw.mods.fml.common.Mod.Instance;
